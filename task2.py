@@ -14,7 +14,7 @@ print(type(last))
 
 # birth
 print(type(birth))
-birth = int(birth
+birth = int(birth)
 # days
 print(type(days))
 days = int(days)
